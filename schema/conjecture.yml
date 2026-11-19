@@ -1,0 +1,16 @@
+# Template for conjectures/<id>.yml
+id: <short-kebab-id>
+title: <one line>
+strand: <foundations|solutions|structures|enhancements>
+statement: |
+  <LaTeX statement>
+status: conjectural   # conjectural | numerically supported | AI-proposed, unchecked | proved (human-checked) | formally verified
+evidence: |
+  <what supports it>
+conventions: |
+  <normalisations, sign conventions>
+provenance:
+  project: https://github.com/topological-strings-lab/<strand>/tree/main/projects/<project-name>
+  references: []
+code: <path or URL reproducing the evidence>
+verified_by: []      # GitHub handles, with method

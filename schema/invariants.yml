@@ -1,0 +1,16 @@
+# Companion file for invariants/<name>.csv
+name: <e.g. gv-local-p2-genus0-5>
+description: <one line>
+geometry: <e.g. local P^2>
+invariant_type: <GV | GW | DT | PT | refined BPS | …>
+range: <degrees / genera covered>
+status: numerically supported
+conventions: |
+  <normalisations, framing, sign conventions>
+columns:
+  - {name: genus, meaning: "g"}
+  - {name: degree, meaning: "d"}
+  - {name: value, meaning: "n_{g,d}"}
+provenance:
+  project: https://github.com/topological-strings-lab/<strand>/tree/main/projects/<project-name>
+code: <path or URL>
