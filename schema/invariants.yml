@@ -12,5 +12,5 @@ columns:
   - {name: degree, meaning: "d"}
   - {name: value, meaning: "n_{g,d}"}
 provenance:
-  project: https://github.com/topological-strings-lab/<strand>/tree/main/projects/<project-name>
+  project: https://github.com/genus-collab/<strand>/tree/main/projects/<project-name>
 code: <path or URL>

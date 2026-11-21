@@ -1,4 +1,4 @@
-# TS-Lab · atlas
+# GENUS · atlas
 
 A curated, cross-strand collection of the collaboration's conjectures, open
 questions, examples, counterexamples and computed invariants

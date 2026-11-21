@@ -10,7 +10,7 @@ evidence: |
 conventions: |
   <normalisations, sign conventions>
 provenance:
-  project: https://github.com/topological-strings-lab/<strand>/tree/main/projects/<project-name>
+  project: https://github.com/genus-collab/<strand>/tree/main/projects/<project-name>
   references: []
 code: <path or URL reproducing the evidence>
 verified_by: []      # GitHub handles, with method
